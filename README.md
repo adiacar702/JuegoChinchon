@@ -144,7 +144,7 @@ Contiene imágenes realizadas para su utilización en el README y documentación
 
 Diagrama de Clases
 
-![UML](assets/UMLChinchonAdrianDiaz.png)
+<img src=assets/UMLChinchonAdrianDiaz.png width="1000">
 
 El UML representa la estructura completa del sistema mostrando:
 
