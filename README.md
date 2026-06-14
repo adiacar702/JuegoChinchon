@@ -4,7 +4,7 @@
 
 ## Introducción del proyecto
 
-Este documento va referido a mi trabajo de final curso con la intención de aprender mas sobre programación y conseguir una persperctiva mas amplia sobre el trabajo al que se dedican los estudiosos de este sector.
+Este documento está elaborado con la intención de aprender mas sobre programación y conseguir una perspectiva mas amplia sobre el trabajo al que se dedican los estudiosos de este sector.
 
 Para la realización de este proyecto se han utilizado las herramientas indicadas en este enlace -> [TOOLS](./TOOLS.md)
 
