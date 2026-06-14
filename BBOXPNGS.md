@@ -29,6 +29,8 @@ Comprobar el correcto funcionamiento de la comparación de objetos Card.
  }
 ```
 
+![TestCards](assets/cardTest.PNG)
+
 ### Deck.draw
 
 * Descripción:
@@ -50,6 +52,8 @@ Validar la modificación interna de la colección de cartas.
   assertEquals(initial - 1, deck.size());
  }
 ```
+
+![DeckTest](assets/deckTest.PNG)
 
 ### Combinations.findTrios
 
@@ -73,6 +77,8 @@ Cubrir la lógica de agrupación por valor.
  }
 ```
 
+![Trios](assets/trios.PNG)
+
 ### Combinations.findEscaleras
 
 * Descripción:
@@ -95,6 +101,8 @@ Validar la lógica de ordenación y comprobación de consecutividad.
  }
 ```
 
+![Escalera](assets/escalera.PNG)
+
 ## Evidencias Caja Negra
 
 ### Table.drawDeck
@@ -115,6 +123,8 @@ Comprueba que siempre se devuelve una carta válida al robar del mazo.
   assertNotNull(card);
  }
 ```
+
+![TestCards](assets/tableTest.PNG)
 
 ### Table.discard
 
@@ -137,6 +147,8 @@ Verifica que una carta descartada queda visible en la zona de descarte.
  }
 ```
 
+![TestCards](assets/tableTest.PNG)
+
 ### RandomAI.drawCard
 
 * Descripción:
@@ -158,6 +170,8 @@ Comprueba que la IA aleatoria roba una carta válida desde la mesa.
   assertNotNull(card);
  }
 ```
+
+![TestCards](assets/random.PNG)
 
 ### SmartAI.drawCard
 
@@ -185,5 +199,7 @@ void testSmartAIDrawCard() {
     assertNotNull(card);
 }
 ```
+
+![TestCards](assets/smart.PNG)
 
 [Volver a la documentación](./README.md/#11-evidencias-de-ejecución)

@@ -75,7 +75,7 @@ ChinchonDigital/
 │
 ├── doc/
 │
-└── markdowndoc/
+└── README.md
 ```
 
 [Descripción de Carpetas y Paquetes](./FOLDERS.md)
@@ -232,7 +232,6 @@ Los tests se organizan siguiendo la misma estructura de paquetes que el proyecto
 src
 └── test
     ├── rules
-    │   ├── CombinationValidatorTest
     │   └── CombinationsTest
     │
     ├── game
